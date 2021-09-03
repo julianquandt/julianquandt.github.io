@@ -38,13 +38,12 @@ devAskNewPage(ask = FALSE)
 
 <div class = "notebox">
 <p>
-__Click below to download the .Rmd file__
+__Click [HERE](https://julianquandt.com/rmd_files/2020-06-16-power-analysis-by-data-simulation-in-r-part-iii.Rmd) to download the .Rmd file__
+
+_This blog is also available on [R-Bloggers](https://www.r-bloggers.com/)_
 </p>
 </div>
 
-```{r echo=FALSE}
-xfun::embed_file('./2020-05-12-power-analysis-by-data-simulation-in-r-part-ii.Rmd', "power-analysis-by-data-simulation-in-r-part-iii.Rmd")
-```
 
 
 ```{css,echo=FALSE}
@@ -78,7 +77,6 @@ knitr::knit_hooks$set(drop1=function(before, options, envir) {
 })
 ```
 
-_This blog is also available on [R-Bloggers](https://www.r-bloggers.com/)_
 
 
 # The Power Analysis by simulation in `R` for really any design - Part III

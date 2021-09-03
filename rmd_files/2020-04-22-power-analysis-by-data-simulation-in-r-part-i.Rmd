@@ -37,15 +37,12 @@ devAskNewPage(ask = FALSE)
 
 <div class = "notebox">
 <p>
-__Click below to download the .Rmd file__
+__Click [HERE](https://julianquandt.com/rmd_files/2020-04-22-power-analysis-by-data-simulation-in-r-part-i.Rmd) to download the .Rmd file__
+
+_This blog is also available on [R-Bloggers](https://www.r-bloggers.com/)_
 </p>
 </div>
 
-```{r echo=FALSE}
-xfun::embed_file('./2020-04-22-power-analysis-by-data-simulation-in-r-part-i.Rmd', "power-analysis-by-data-simulation-in-r-part-i.Rmd")
-```
-
-_This blog is also available on [R-Bloggers](https://www.r-bloggers.com/)_
 
 # Power Analysis by Data Simulation in `R` - Part I: Theoretical introduction to simulation 
 
